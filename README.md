@@ -9,4 +9,4 @@ Este repositório contém a documentação do laboratório prático de provision
 * Sistema Operacional: Windows Server 2019 Datacenter
 
 ## Evidência de Conclusão
-![Selo de Conclusão](LINK_DA_SUA_IMAGEM_AQUI)
+![Selo de Conclusão]([LINK_DA_SUA_IMAGEM_AQUI](https://learn.microsoft.com/pt-br/users/alexandroliberato-5283/))
